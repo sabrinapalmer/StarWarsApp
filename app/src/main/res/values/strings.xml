@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="movie_title_text">Movie Name</string>
+    <string name="movie_description_text">This is the description</string>
+    <string name="movie_characters_text">These are the characters</string>
+    <string name="movie_has_seen_text">Has seen?</string>
+</resources>
